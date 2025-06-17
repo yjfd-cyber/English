@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "dd85e9ac62136d45",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd64de5913bb9e6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3995890b670ebb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【Memo】The CODE of vocabulary/Tough Guy/劫匪.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "劫匪"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ba1eb4592586405",
+    "type": "split",
+    "children": [
+      {
+        "id": "36e49d0912097c48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f0ea180406aa314",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "45a3bf90a310b060",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "索马里",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "70bcd46cb649615d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "f39818c786e8d36c",
+    "type": "split",
+    "children": [
+      {
+        "id": "43e2701684b8a97b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "996910688e212b35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "【ChinaDaily】/0605.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "0605 的大纲"
+            }
+          },
+          {
+            "id": "0426329babd8c246",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pronunce/参考方式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "参考方式 的反向链接列表"
+            }
+          },
+          {
+            "id": "fbe73a59f7f88f66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b583735ed9d50e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac1657a3e8362a50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "【ChinaDaily】/0605.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "0605 的出链列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "obsidian-kanban:创建新看板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e3995890b670ebb0",
+  "lastOpenFiles": [
+    "【Memo】The CODE of vocabulary/Tough Guy/列表.md",
+    "【Memo】The CODE of vocabulary/Tough Guy/劫匪.md",
+    "【Train】The Reading Material/ChinaDaily/Opinion-Chinese Perspectives.md",
+    "【Train】The Reading Material/ChinaDaily/Opinion-Editorials.md",
+    "【Train】The Reading Material/ChinaDaily/Pasted image 20250410222305.png",
+    "Manage/English-reading/SAMPLE.md",
+    "【ChinaDaily】/0605.md",
+    "开始.md",
+    "Manage/0531/Pronounce-参考方式.md",
+    "【Map】/技巧-大纲.md",
+    "The Outline.md",
+    "基础.md",
+    "【Memo】The CODE of vocabulary/Small Country/33-冰岛（Iceland）.md",
+    "【Map】/六级单词-小国.canvas",
+    "【Map】/情景-硬核狠人.canvas",
+    "【Map】/简单.canvas",
+    "【Memo】The CODE of vocabulary/Amazing Socieasing/帕利塞德（Palisade）.md",
+    "Log/2025-06-17.md",
+    "Manage/0531/CET6/作文模板.md",
+    "Log/2025-06-14.md",
+    "【Memo】The CODE of vocabulary/Small Country/41-土库曼斯坦.md",
+    "【Memo】The CODE of vocabulary/Small Country/28-厄立特里亚.md",
+    "Log/2025-06-05.md",
+    "【Memo】The CODE of vocabulary/Small Country/00总纲.md",
+    "Log/2024-12-16.md",
+    "【ChinaDaily】",
+    "Manage/词汇大类/PREP.md",
+    "Manage/词汇大类/NOUN.md",
+    "词汇大类/PREP/while.md",
+    "词汇大类/PREP/through.md",
+    "词汇大类/PREP/despite.md",
+    "Manage/English-reading",
+    "Manage/外置.canvas",
+    "Manage/android构成.canvas",
+    "Manage/《高效学习》.canvas",
+    "Manage",
+    "新建文件夹",
+    "【Train】The Reading Material",
+    "【Memo】The CODE of vocabulary",
+    "【Map】",
+    "Video",
+    "Pronunce",
+    "【Memo】The CODE of vocabulary/Small Country/Assets/Pasted image 20250413172009.png",
+    "【Memo】The CODE of vocabulary/Small Country/Assets",
+    "【Memo】The CODE of vocabulary/Small Country/Assets/Pasted image 20250504113700.png",
+    "【Memo】The CODE of vocabulary/Small Country/Assets/Pasted image 20250413172104.png",
+    "未命名.canvas",
+    "计算机二级/Assets/Pasted image 20250329225646.png",
+    "计算机二级/Assets/Pasted image 20250329233026.png",
+    "计算机二级/Assets/Pasted image 20250329232456.png",
+    "计算机二级/Assets/Pasted image 20250329231513.png",
+    "计算机二级/Assets/Pasted image 20250329231211.png",
+    "计算机二级/Assets/Pasted image 20250329230551.png",
+    "未命名 1.canvas"
+  ]
+}

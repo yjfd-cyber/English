@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"35c845f22a22e2b4","type":"group","x":-880,"y":-280,"width":440,"height":900,"label":"思考-好方法"},
+		{"id":"06888b70be35fef7","type":"group","x":-330,"y":-280,"width":340,"height":560,"label":"动作-可训练"},
+		{"id":"89f89efaa6d120a5","type":"file","file":"Manage/0531/构建语境.md","x":-310,"y":-260,"width":260,"height":300},
+		{"id":"e2d4860a98e1b049","type":"file","file":"Manage/0531/写作问题.md","x":-310,"y":140,"width":300,"height":120},
+		{"id":"e7d770305bce4e4e","type":"file","file":"Manage/0531/Listening.md","x":-325,"y":320,"width":630,"height":340},
+		{"id":"e71ed72d851432a1","type":"file","file":"Manage/0531/Comprehensive Input.md","x":-860,"y":-260,"width":400,"height":400},
+		{"id":"efd9d2a9f133c8e1","type":"file","file":"Manage/0531/6 month.md","x":-860,"y":200,"width":400,"height":400}
+	],
+	"edges":[]
+}
